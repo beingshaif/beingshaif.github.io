@@ -1,7 +1,7 @@
 # beingshaif.github.io
 
 ```
-My personal portfoili
+My personal portfoilio
 ```
 
-#Visit: https://beingshaif.github.io
+Visit: https://beingshaif.github.io
